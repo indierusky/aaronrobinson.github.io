@@ -59,8 +59,11 @@
 	.testimonial-content {
 		font-size:18px;
 	}
-	.owl-carousel .owl-item .client-img img {
+	/* .owl-carousel .owl-item .client-img img {
 		max-width:80px;
+	} */
+	.owl-carousel .owl-item img {
+    object-fit: contain;
 	}
 	.gallery-section {
 		padding-top:10px;
