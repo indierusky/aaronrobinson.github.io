@@ -442,3 +442,9 @@ flex-wrap: wrap;
 .owl-carousel .owl-item img {
     object-fit: contain;
 }
+
+.button .resume {
+			background-color: #1724bd;
+			box-shadow: none; 
+			color: #ffffff;
+		}
