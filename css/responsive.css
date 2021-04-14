@@ -443,7 +443,7 @@ flex-wrap: wrap;
     object-fit: contain;
 }
 
-.button .resume button {
+.button .resume {
 			/* background-color: #1724bd !important; */
 			box-shadow: none; 
 			color:  #1724bd important;
