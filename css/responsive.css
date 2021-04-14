@@ -443,26 +443,7 @@ flex-wrap: wrap;
     object-fit: contain;
 }
 
-/* .button .resume {
-			background-color: #1724bd !important;
-			box-shadow: none; 
-			color: #FFFFFF;
-			border-radius: 8px;
-		}
 
-
-a.button {
-
-	color:  #1724bd important;
-
-
-}
-
-
-.button .resume a{
-			background-color: #1724bd !important;
-			color:  #1724bd important;
-		} */
 
 
 button.button.resume {
@@ -473,3 +454,9 @@ button.button.resume {
 			border-radius: 8px !important;
 
 }
+
+
+    .button.resume:hover{
+     background-image: none;
+     filter: brightness(85%);
+    }
