@@ -446,7 +446,7 @@ flex-wrap: wrap;
 .button .resume button {
 			background-color: #1724bd !important;
 			box-shadow: none; 
-			color: #ffffff;
+			color:  #1724bd;
 			border-radius: 8px;
 		}
 
