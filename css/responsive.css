@@ -444,8 +444,8 @@ flex-wrap: wrap;
 }
 
 .button .resume {
-			background-color: #1724bd;
+			background-color: #1724bd !important;
 			box-shadow: none; 
 			color: #ffffff;
-			border-radius: 8;
+			border-radius: 4px;
 		}
