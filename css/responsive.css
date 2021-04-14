@@ -444,9 +444,9 @@ flex-wrap: wrap;
 }
 
 .button .resume button {
-			background-color: #1724bd !important;
+			/* background-color: #1724bd !important; */
 			box-shadow: none; 
-			color:  #1724bd;
+			color:  #1724bd important;
 			border-radius: 8px;
 		}
 
