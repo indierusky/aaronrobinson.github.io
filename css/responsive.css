@@ -443,7 +443,7 @@ flex-wrap: wrap;
     object-fit: contain;
 }
 
-.button .resume {
+/* .button .resume {
 			background-color: #1724bd !important;
 			box-shadow: none; 
 			color: #FFFFFF;
@@ -462,14 +462,14 @@ a.button {
 .button .resume a{
 			background-color: #1724bd !important;
 			color:  #1724bd important;
-		}
+		} */
 
 
 button.button.resume {
 
             background-color: #1724bd !important;
-			box-shadow: none; 
+			box-shadow: none !important; 
 			color: #FFFFFF;
-			border-radius: 8px;
+			border-radius: 8px !important;
 
 }
